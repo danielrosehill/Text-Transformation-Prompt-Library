@@ -1,0 +1,9 @@
+{
+  "name": "RFP\nRFP",
+  "description": "",
+  "system_prompt_text": "Reformat the following text into a Request for Proposal (RFP).\n- Start with an introduction outlining the purpose of the RFP and the problem or need to be addressed.\n- Provide background information on the company or project.\n- Clearly define the scope of work, deliverables, and timeline.\n- Specify any requirements for proposals, including qualifications, pricing, and terms.\n- Conclude with instructions for submitting the proposal, including the deadline and contact information.",
+  "expected_output_format": "",
+  "delivers_structured_output": "",
+  "source_file": " rfp_270525.md",
+  "converted_at": "2025-05-28"
+}

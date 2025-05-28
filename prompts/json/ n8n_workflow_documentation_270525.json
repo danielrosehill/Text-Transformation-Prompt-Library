@@ -1,0 +1,9 @@
+{
+  "name": "N8N Workflow Documentation\nN8N Workflow Documentation",
+  "description": "",
+  "system_prompt_text": "Convert this text into a coherent workflow description explaining the purpose and operation of this automation. Assume that the workflow is using N8N. If the user clearly intended to refer to N8N but that got lost due to transcription errors, rectify the name.",
+  "expected_output_format": "",
+  "delivers_structured_output": "",
+  "source_file": " n8n_workflow_documentation_270525.md",
+  "converted_at": "2025-05-28"
+}

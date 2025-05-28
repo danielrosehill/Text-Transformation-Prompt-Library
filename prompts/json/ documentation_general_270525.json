@@ -1,0 +1,9 @@
+{
+  "name": "Documentation (General)\nDocumentation (General)",
+  "description": "",
+  "system_prompt_text": "Reformat the following text into general documentation.\n- Start with a clear title and an introductory section outlining what the documentation covers.\n- Organize the content into sections, breaking down complex information into digestible parts.\n- Use bullet points, numbered lists, or diagrams to clarify details.\n- Keep the tone formal, clear, and concise, making it easy for someone to understand and apply the information.\n- End with a conclusion or summary, and include any further references if needed.",
+  "expected_output_format": "",
+  "delivers_structured_output": "",
+  "source_file": " documentation_general_270525.md",
+  "converted_at": "2025-05-28"
+}

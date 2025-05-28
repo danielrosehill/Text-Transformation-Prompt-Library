@@ -1,0 +1,9 @@
+{
+  "name": "Budget request\nBudget request",
+  "description": "",
+  "system_prompt_text": "Reformat the following text into a budget request.\n- Start with an introduction explaining the purpose of the request.\n- List the specific items or categories that need funding, with clear explanations.\n- Include estimated costs for each item or category.\n- Provide a total amount requested and any justification for the budget needs.\n- End with a polite closing statement, requesting approval or further discussion.",
+  "expected_output_format": "",
+  "delivers_structured_output": "",
+  "source_file": " budget_request_270525.md",
+  "converted_at": "2025-05-28"
+}

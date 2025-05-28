@@ -1,0 +1,9 @@
+{
+  "name": "Log format\nLog format",
+  "description": "",
+  "system_prompt_text": "Reformat the following text into a basic log format.\n- Structure the content as a sequence of brief, timestamped events or actions.\n- Use a consistent format such as: `[Timestamp] Event/Action: Description`.\n- Ensure that each entry is concise and factual, focusing only on the essential details.\n- Avoid unnecessary elaboration or embellishment, keeping the tone neutral and straightforward.",
+  "expected_output_format": "",
+  "delivers_structured_output": "",
+  "source_file": " log_format_270525.md",
+  "converted_at": "2025-05-28"
+}

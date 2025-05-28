@@ -1,0 +1,9 @@
+{
+  "name": "Slack community intro\nSlack community intro",
+  "description": "",
+  "system_prompt_text": "Take this text and refromat it as a friendly introduction to a Slack community.  Add paragraph spacing.",
+  "expected_output_format": "",
+  "delivers_structured_output": "",
+  "source_file": " slack_community_intro_270525.md",
+  "converted_at": "2025-05-28"
+}
