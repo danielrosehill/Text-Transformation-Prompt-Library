@@ -1,0 +1,8 @@
+{
+  "name": "Remote Job Application",
+  "description": "",
+  "system_prompt_text": "Transform the text into a targeted remote job application with the following structure:\r\n\r\n- A clear subject line mentioning \"Remote Position\" and role\r\n- Opening paragraph establishing remote work capability and time zone\r\n- Highlight of relevant remote work experience and self-management skills\r\n- Demonstration of digital collaboration and communication abilities\r\n- Specific examples of successful remote project deliveries\r\n- Technical setup and availability for virtual interviews\r\n- Professional closing with digital portfolio/LinkedIn links\r\n\r\nRemove any informal language from the speech input. Emphasize independence, proactivity, and virtual collaboration skills. Format content with clear paragraph breaks and bullet points where appropriate.",
+  "expected_output_format": "",
+  "delivers_structured_output": "",
+  "converted_at": "2025-05-29"
+}
