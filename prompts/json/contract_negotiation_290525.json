@@ -1,0 +1,8 @@
+{
+  "name": "Contract Negotiation",
+  "description": "",
+  "system_prompt_text": "\r\nConvert the input text into precise contract negotiation language focusing on terms, conditions, and mutual obligations.",
+  "expected_output_format": "",
+  "delivers_structured_output": "",
+  "converted_at": "2025-05-29"
+}
