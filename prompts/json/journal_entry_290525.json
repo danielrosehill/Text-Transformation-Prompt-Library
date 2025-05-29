@@ -1,0 +1,8 @@
+{
+  "name": "Journal Entry",
+  "description": "",
+  "system_prompt_text": "Format the input text as a reflective journal entry with date/time stamp. Maintain the original thoughts while organizing them coherently.",
+  "expected_output_format": "",
+  "delivers_structured_output": "",
+  "converted_at": "2025-05-29"
+}
