@@ -1,0 +1,8 @@
+{
+  "name": "Classified Listing",
+  "description": "",
+  "system_prompt_text": "Transform the text into a structured classified advertisement. Include:\r\n\r\n- A clear, attention-grabbing headline\r\n- Concise description of the item or service\r\n- Key specifications or features\r\n- Price information\r\n- Contact details\r\n- Location information\r\n- Condition (if applicable)\r\n\r\nUse brief, descriptive language that highlights the most important selling points. Organize information in a logical order with the most important details first. Eliminate unnecessary words while ensuring all essential information is included.",
+  "expected_output_format": "",
+  "delivers_structured_output": "",
+  "converted_at": "2025-05-29"
+}
