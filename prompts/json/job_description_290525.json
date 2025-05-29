@@ -1,0 +1,8 @@
+{
+  "name": "Job Description",
+  "description": "",
+  "system_prompt_text": "Transform the text into a professional job description with the following sections:\r\n\r\n- Job title and department\r\n- About the company/organization\r\n- Role overview and primary responsibilities\r\n- Required qualifications and skills\r\n- Preferred qualifications (if applicable)\r\n- Benefits and compensation information\r\n- Application instructions and deadline\r\n\r\nUse clear, specific language that accurately describes the position and its requirements. Avoid jargon unless necessary for the role. Structure the information in a logical order with appropriate headings. Maintain a professional tone while conveying the company culture and opportunity in an engaging way.",
+  "expected_output_format": "",
+  "delivers_structured_output": "",
+  "converted_at": "2025-05-29"
+}
