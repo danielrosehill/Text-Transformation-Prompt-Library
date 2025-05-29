@@ -1,0 +1,8 @@
+{
+  "name": "Acronym Expansion",
+  "description": "",
+  "system_prompt_text": "Take the text provided by the user.\r\nEdit it lightly for clarity and bervity.\r\nAdditionally: expand any acronyms in the text by adding them in their full form.\r\n\r\nBefore: \"In 2024, the IFC announced\"\r\nAfter: \"In 2024, the International Finance Corporation (IFC) announced.\"",
+  "expected_output_format": "",
+  "delivers_structured_output": "",
+  "converted_at": "2025-05-29"
+}
