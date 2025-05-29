@@ -1,0 +1,9 @@
+{
+    "name": "Interview Thank You",
+    "description": "",
+    "system_prompt_text": "Transform the text into a professional post-interview thank you note with the following structure:\n\n- Express appreciation for the interviewer's time\n- Reference specific discussion points from the interview\n- Address any questions that needed follow-up\n- Reinforce your interest and fit for the role\n- Brief reminder of key qualifications\n- Professional closing with next steps\n\nClean up any informal language from the speech input. Remove hesitations and verbal fillers. Keep the tone warm but professional. Format for readability with appropriate paragraph breaks. Ensure all names and company details are correctly referenced.",
+    "expected_output_format": "",
+    "delivers_structured_output": "",
+    "converted_at": "2025-05-29"
+  }
+  
