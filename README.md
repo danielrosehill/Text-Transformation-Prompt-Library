@@ -4,25 +4,16 @@ A comprehensive collection of text transformation prompts for reformatting dicta
 
 ## Quick Links
 
-- [**Browse All Prompts (Markdown Index)**](./index.md) - Human-readable alphabetical index of all prompts
-- [**JSON Index**](./prompts.json) - Machine-readable consolidated JSON of all prompts
+[![Markdown Index](https://img.shields.io/badge/Browse_All_Prompts-Markdown_Index-blue)](./index.md)
+[![JSON Index](https://img.shields.io/badge/Machine_Readable-JSON_Index-green)](./prompts.json)
 
 ## Repository Structure
 
 ### `/prompts/`
-The main collection of text transformation prompts, populated by automation workflows.
+The main collection of text transformation prompts.
 
-- **`/prompts/md/`** - Markdown format prompts (130 prompts)
+- **`/prompts/md/`** - Markdown format prompts
 - **`/prompts/json/`** - JSON format equivalents of the markdown prompts
-- **`.gitkeep`** - Placeholder file for automation
-
-### `/to-integrate/`
-Staging area for new prompts that will be processed by automation and added to the main collection.
-
-### `/other-repos/`
-Contains consolidated prompts from initial collections for manual review and integration.
-
-- **`/other-repos/consolidated-prompts/`** - Flat structure containing 248 prompts from previous collections
 
 ## Prompt Structure
 
@@ -66,10 +57,7 @@ This script:
 2. Consolidates all JSON prompt files into `prompts.json`
 3. Generates a markdown index (`index.md`) from the consolidated JSON
 
-### For Integration
-1. Add new prompts to the `/to-integrate/` folder
-2. Automation will process and move them to the main collection
-3. Review consolidated prompts in `/other-repos/consolidated-prompts/` for missing items
+
 
 ## Categories
 
