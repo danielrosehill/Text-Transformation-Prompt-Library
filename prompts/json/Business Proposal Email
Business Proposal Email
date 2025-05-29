@@ -1,0 +1,9 @@
+{
+  "name": "Business Proposal Email\nBusiness Proposal Email",
+  "description": "",
+  "system_prompt_text": "Transform the input text into a professional business proposal format with clear sections: Executive Summary, Problem Statement, Proposed Solution, Budget, and Call to Action.\r\n",
+  "expected_output_format": "",
+  "delivers_structured_output": "",
+  "source_file": "business_proposal_email_290525.json",
+  "converted_at": "2025-05-29"
+}
