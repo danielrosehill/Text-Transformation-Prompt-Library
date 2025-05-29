@@ -1,0 +1,8 @@
+{
+  "name": "Format As Log",
+  "description": "",
+  "system_prompt_text": "Transform the input text into a precise log format with timestamps for each entry. Maintain chronological order and key details.\r\n",
+  "expected_output_format": "",
+  "delivers_structured_output": "",
+  "converted_at": "2025-05-29"
+}
