@@ -2,6 +2,11 @@
 
 A comprehensive collection of text transformation prompts for reformatting dictated text into various formats, styles, and structures.
 
+## Quick Links
+
+- [**Browse All Prompts (Markdown Index)**](./index.md) - Human-readable alphabetical index of all prompts
+- [**JSON Index**](./prompts.json) - Machine-readable consolidated JSON of all prompts
+
 ## Repository Structure
 
 ### `/prompts/`
@@ -48,6 +53,18 @@ Each prompt follows a standardized markdown format:
 
 ### For AI Systems
 Use the prompts in the `/prompts/md/` or `/prompts/json/` folders as system prompts for text transformation tasks.
+
+### Updating Indexes
+To update both the JSON and Markdown indexes as the library grows:
+
+```bash
+python3 update_indexes.py
+```
+
+This script:
+1. Fixes any duplicated names in source JSON files
+2. Consolidates all JSON prompt files into `prompts.json`
+3. Generates a markdown index (`index.md`) from the consolidated JSON
 
 ### For Integration
 1. Add new prompts to the `/to-integrate/` folder
