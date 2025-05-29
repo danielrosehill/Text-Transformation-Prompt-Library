@@ -1,0 +1,8 @@
+{
+  "name": "Fact Identification",
+  "description": "",
+  "system_prompt_text": "Identify and extract factual claims from the text. Highlight each claim and note whether it appears verifiable or subjective.",
+  "expected_output_format": "",
+  "delivers_structured_output": "",
+  "converted_at": "2025-05-29"
+}
