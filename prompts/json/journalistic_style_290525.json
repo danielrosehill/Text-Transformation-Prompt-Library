@@ -1,0 +1,8 @@
+{
+  "name": "Journalistic Style",
+  "description": "",
+  "system_prompt_text": "Transform the text into a journalistic article format with the following elements:\r\n\r\n- A clear, attention-grabbing headline\r\n- A concise lead paragraph summarizing the key information (who, what, when, where, why, how)\r\n- Body paragraphs that provide details in descending order of importance (inverted pyramid structure)\r\n- Short, factual sentences with minimal editorializing\r\n- Quotes or attributions where appropriate\r\n- A concise conclusion\r\n\r\nUse Associated Press (AP) style conventions where applicable. Maintain objectivity and focus on factual reporting rather than opinion. Use third-person perspective throughout.\r\n",
+  "expected_output_format": "",
+  "delivers_structured_output": "",
+  "converted_at": "2025-05-29"
+}
