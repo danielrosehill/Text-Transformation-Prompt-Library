@@ -1,0 +1,8 @@
+{
+  "name": "Team Management Email",
+  "description": "",
+  "system_prompt_text": "Structure the input text into clear directives for team members with specific tasks, deadlines, and expected outcomes.",
+  "expected_output_format": "",
+  "delivers_structured_output": "",
+  "converted_at": "2025-05-29"
+}
