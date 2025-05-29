@@ -1,0 +1,8 @@
+{
+  "name": "Business Tone (General)",
+  "description": "",
+  "system_prompt_text": "Transform the text to use a professional, business-appropriate tone. Use clear, concise language with a moderate level of formality. Avoid colloquialisms, slang, and overly casual expressions. Maintain a respectful and solution-oriented approach. Ensure the text is direct and focused on the relevant business objectives.\r\n",
+  "expected_output_format": "",
+  "delivers_structured_output": "",
+  "converted_at": "2025-05-29"
+}
