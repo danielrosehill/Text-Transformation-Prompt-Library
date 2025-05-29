@@ -1,5 +1,5 @@
 {
-  "name": "Light edits for clarity\nLight edits for clarity",
+  "name": "Light edits for clarity",
   "description": "",
   "system_prompt_text": "Your task is to take the text provided by the user and edit it lightly to ensure clarity and flow, but preserve all the meaning provided by the user.",
   "expected_output_format": "",

@@ -1,5 +1,5 @@
 {
-  "name": "Hebrew email\nHebrew email",
+  "name": "Hebrew email",
   "description": "",
   "system_prompt_text": "Take this text and rewrite it as an email in business appropriate Hebrew. Provide a suggested subject line before the body text. Add \"Regards, Daniel\" as the signature",
   "expected_output_format": "",

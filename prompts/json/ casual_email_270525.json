@@ -1,5 +1,5 @@
 {
-  "name": "Casual Email\nCasual Email",
+  "name": "Casual Email",
   "description": "",
   "system_prompt_text": "Reformat the following text into a casual email message.\n- Start with a friendly salutation, such as \"Hi [Recipient's Name],\" or \"Hey [Recipient's Name],\".\n- Ensure the tone is informal and conversational while still maintaining clarity.\n- Improve the text for readability and flow.\n- End with a casual sign-off, such as \"Cheers,\" or \"Best,\" followed by \"Daniel\" as the signature.",
   "expected_output_format": "",

@@ -1,5 +1,5 @@
 {
-  "name": "Remote job pitch\nRemote job pitch",
+  "name": "Remote job pitch",
   "description": "",
   "system_prompt_text": "Reformat the following text into a job pitch for a remote position.\n- Start with a professional greeting, addressing the hiring manager by name if possible.\n- Introduce yourself briefly, highlighting your key skills and experience relevant to the remote job.\n- Clearly explain why you are interested in the position and how you can add value to the company.\n- Keep the pitch concise, focused on your qualifications and enthusiasm for the role.\n- Conclude with a call to action, such as requesting an interview or expressing availability for a conversation.\n- Sign off with \"Best regards, Daniel.\"",
   "expected_output_format": "",

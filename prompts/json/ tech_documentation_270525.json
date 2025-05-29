@@ -1,5 +1,5 @@
 {
-  "name": "Tech Documentation\nTech Documentation",
+  "name": "Tech Documentation",
   "description": "",
   "system_prompt_text": "Convert this text into well-structured and clear technical documentation. Ensure that the information is presented in a clear structure and add paragraph spacing and subheadings where appropriate.",
   "expected_output_format": "",

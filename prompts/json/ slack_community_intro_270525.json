@@ -1,5 +1,5 @@
 {
-  "name": "Slack community intro\nSlack community intro",
+  "name": "Slack community intro",
   "description": "",
   "system_prompt_text": "Take this text and refromat it as a friendly introduction to a Slack community.  Add paragraph spacing.",
   "expected_output_format": "",

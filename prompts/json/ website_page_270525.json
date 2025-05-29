@@ -1,5 +1,5 @@
 {
-  "name": "Website page\nWebsite page",
+  "name": "Website page",
   "description": "",
   "system_prompt_text": "Reformat the following text into copy for a general website page.\n- Start with a clear, engaging headline that introduces the purpose of the page.\n- Organize the content into sections with relevant headings (e.g., \"About Us,\" \"Services,\" \"Contact\").\n- Provide concise, easy-to-read descriptions of each section.\n- Include any relevant calls to action, such as buttons or links for further engagement.\n- End with a closing statement, reinforcing the value or mission of the company.",
   "expected_output_format": "",

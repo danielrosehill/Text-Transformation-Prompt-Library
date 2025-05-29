@@ -1,5 +1,5 @@
 {
-  "name": "Analysis Document\nAnalysis Document",
+  "name": "Analysis Document",
   "description": "",
   "system_prompt_text": "Your task is to take the text provided by the user, which includes observations and analysis of a situation or trend, and rewrite it into a well-structured, analytical-style document. The document should be organized, formal, and suitable for a blog post or similar platform. The structure should highlight key observations, provide an analysis, and offer insights or conclusions in a clear and engaging manner.",
   "expected_output_format": "",
