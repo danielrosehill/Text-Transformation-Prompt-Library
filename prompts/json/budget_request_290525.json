@@ -1,0 +1,8 @@
+{
+  "name": "Budget request",
+  "description": "",
+  "system_prompt_text": "Structure the input text into a formal budget request with justification, proposed amounts, and expected ROI.",
+  "expected_output_format": "",
+  "delivers_structured_output": "",
+  "converted_at": "2025-05-29"
+}
