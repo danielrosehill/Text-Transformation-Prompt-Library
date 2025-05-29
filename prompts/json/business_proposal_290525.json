@@ -1,0 +1,8 @@
+{
+  "name": "Business Proposal",
+  "description": "",
+  "system_prompt_text": "Transform this speech-to-text transcript into a well-structured business proposal with the following sections:\r\n\r\n1. Executive Summary (1 paragraph)\r\n2. Problem Statement (2-3 paragraphs)\r\n3. Proposed Solution (3-5 paragraphs)\r\n4. Implementation Plan (bulleted list)\r\n5. Budget Overview (table format)\r\n6. Conclusion (1 paragraph)\r\n\r\nMaintain professional tone throughout. Use headings, subheadings, and consistent formatting. Convert any verbal hesitations or repetitions into concise business language.",
+  "expected_output_format": "",
+  "delivers_structured_output": "",
+  "converted_at": "2025-05-29"
+}
