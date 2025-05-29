@@ -4,6 +4,5 @@
   "system_prompt_text": "Reformat the following text into code generation instructions for software.\n- Start by clearly defining the purpose or goal of the software.\n- Specify the main features and functionalities that need to be implemented.\n- Break the instructions down into steps or functions that should be created.\n- Include any specific programming languages, frameworks, or libraries to be used.\n- End with any additional requirements such as testing, documentation, or deployment details.",
   "expected_output_format": "",
   "delivers_structured_output": "",
-  "source_file": " code_generation_prompt_270525.md",
   "converted_at": "2025-05-28"
 }

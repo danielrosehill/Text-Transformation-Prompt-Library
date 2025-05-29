@@ -4,6 +4,5 @@
   "system_prompt_text": "Edit this text by converting it into \"Hebrish\" - a mixture of English and Hebrew popular among English speaking immigrants to Israel. Ensure that at least some of the words are in Hebrew (or English in parentheses)",
   "expected_output_format": "",
   "delivers_structured_output": "",
-  "source_file": " hebrish_270525.md",
   "converted_at": "2025-05-28"
 }

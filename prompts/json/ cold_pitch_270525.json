@@ -4,6 +4,5 @@
   "system_prompt_text": "Reformat the following text into a cold pitch.\n- Start with a personalized greeting and a brief introduction of yourself.\n- Clearly state the value proposition of your offer or service.\n- Explain why the recipient would benefit from engaging with you.\n- Keep the tone professional yet concise, aiming to grab attention quickly.\n- Conclude with a call to action, such as scheduling a meeting or discussing further.\n- Sign off with \"Best regards, Daniel.\"",
   "expected_output_format": "",
   "delivers_structured_output": "",
-  "source_file": " cold_pitch_270525.md",
   "converted_at": "2025-05-28"
 }

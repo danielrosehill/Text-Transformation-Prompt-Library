@@ -4,6 +4,5 @@
   "system_prompt_text": "Reformat the following text into a product description.\n- Start with an attention-grabbing opening sentence that highlights the key benefit of the product.\n- List the main features and specifications of the product in bullet points or short paragraphs.\n- Explain how the product solves a problem or provides value to the customer.\n- End with a strong call to action or suggestion for purchase.",
   "expected_output_format": "",
   "delivers_structured_output": "",
-  "source_file": " product_description_270525.md",
   "converted_at": "2025-05-28"
 }

@@ -4,6 +4,5 @@
   "system_prompt_text": "Reformat the following text into a README file for a GitHub repository.\n- Start with the project title and a short description of what it does.\n- Include installation instructions, dependencies, and how to run the software.\n- Provide examples of how to use the software, including command-line arguments or function calls.\n- Include any necessary configuration steps, if applicable.\n- End with a section on contributing, licensing, and contact information.",
   "expected_output_format": "",
   "delivers_structured_output": "",
-  "source_file": " readme_text_270525.md",
   "converted_at": "2025-05-28"
 }

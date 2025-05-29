@@ -4,6 +4,5 @@
   "system_prompt_text": "Reformat the following text into a newsletter update.\n- Start with a greeting or introductory sentence to engage the reader.\n- Organize the content into sections with headlines for easy reading.\n- Highlight any important news, updates, or announcements.\n- Keep the tone friendly and informative, encouraging readers to engage with the content (e.g., click links, read more).\n- End with a closing statement or a call to action.",
   "expected_output_format": "",
   "delivers_structured_output": "",
-  "source_file": " newsletter_270525.md",
   "converted_at": "2025-05-28"
 }

@@ -4,6 +4,5 @@
   "system_prompt_text": "Reformat the following text into technical documentation.\n- Start with a clear title and introduction that explains what is being documented.\n- Break the content into logical sections with headings, such as \"Overview,\" \"Setup Instructions,\" \"Usage,\" \"Troubleshooting,\" etc.\n- Use precise and technical language, avoiding unnecessary fluff.\n- Provide step-by-step instructions, code snippets, or diagrams if applicable.\n- Ensure the language is clear and concise for someone who might be implementing or maintaining the system.",
   "expected_output_format": "",
   "delivers_structured_output": "",
-  "source_file": " technical_documentation_270525.md",
   "converted_at": "2025-05-28"
 }

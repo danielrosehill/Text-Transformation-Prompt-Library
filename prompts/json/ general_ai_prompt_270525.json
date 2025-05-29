@@ -4,6 +4,5 @@
   "system_prompt_text": "Reformat the text provided by the user into a clear and effective prompt for a general purpose AI tool (like ChatGPT or a similar LLM). Ensure that the user's prompt is clear and optimised for AI intelligiblity. Make no other edits.",
   "expected_output_format": "",
   "delivers_structured_output": "",
-  "source_file": " general_ai_prompt_270525.md",
   "converted_at": "2025-05-28"
 }
